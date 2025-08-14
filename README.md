@@ -17,7 +17,6 @@ My main language is **Python**, but I also have experience with:
 
 ## 📂 Featured Projects
 ⬇️ Some of my earlier works are available in my repositories below.  
-I keep them here as part of my coding journey and for anyone who might find them useful.
 
 ---
 
